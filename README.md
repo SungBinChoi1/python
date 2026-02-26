@@ -23,6 +23,7 @@ Location: 기본값 유지
 Add to PATH: 체크 해제
 
 일반 Python 별도 설치 불필요
+
 Miniconda에 Python 포함
 
 2. PyCharm 설치
@@ -33,8 +34,9 @@ https://www.jetbrains.com/ko-kr/pycharm/download/?section=windows
 설치 참고
 https://dolpali.tistory.com/345
 
-※ 위 링크에서
+위 링크에서
 2. 파이참 Community 버전 설치하기 까지만 참고
+
 3번 이후 아나콘다 설치 부분은 해당 없음
 
 3. 프로젝트 열기
@@ -60,6 +62,7 @@ Project → Python Interpreter
 인터프리터 추가
 
 톱니바퀴 → Add Interpreter
+
 Conda Environment 선택
 
 New Environment 생성
@@ -91,6 +94,7 @@ playwright 오류 시
 playwright install chromium
 6. 실행 방법
 PyCharm에서 실행
+
 Ctrl + Shift + F10
 
 또는 우클릭 → Run
